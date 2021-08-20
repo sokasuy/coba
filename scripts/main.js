@@ -50,3 +50,5 @@ if (!localStorage.getItem('name')) {
 myButton.onclick = function() {
     setUserName();
 }
+
+let a=9;
